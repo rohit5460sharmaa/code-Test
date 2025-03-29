@@ -4,6 +4,8 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+bfg-1.15.0.jar
+src/main/resources/application.properties
 ### STS ###
 .apt_generated
 .classpath
